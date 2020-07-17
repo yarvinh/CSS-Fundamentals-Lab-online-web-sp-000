@@ -12,9 +12,10 @@ nav {
    text-align: center
 }
 
-section {
+section.p {
 
    text-align: center
+   width: 200px;
 
 }
 

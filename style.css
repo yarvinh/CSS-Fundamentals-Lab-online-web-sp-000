@@ -35,3 +35,7 @@ p {
 
 
 }
+
+#details > div{
+  width: 25%;
+}

@@ -15,8 +15,11 @@ nav {
 section{
 
    text-align: center;
-   width: 200px;
+   
 
+}
+#featured-property{
+  width: 200px;
 }
 
 p {
